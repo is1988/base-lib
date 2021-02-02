@@ -1,5 +1,0 @@
-include ':widget'
-include ':umeng'
-include ':base'
-include ':app'
-rootProject.name = "Winning-Demo"
